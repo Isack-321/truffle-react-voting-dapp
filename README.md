@@ -1,0 +1,1 @@
+# truffle-react-voting-dapp
